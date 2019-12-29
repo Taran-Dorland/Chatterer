@@ -1,0 +1,22 @@
+body {
+    padding-top: 70px;
+    overflow: hidden;
+}
+
+#chat-container {
+    height: 50em;
+}
+
+#foot {
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+
+textarea {
+    resize: none;
+}
+
+p.chat-message {
+    font-size: 10pt;
+}
